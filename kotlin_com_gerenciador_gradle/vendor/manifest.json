@@ -1,0 +1,15 @@
+{
+  "folders": {
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/": "raw.githubusercontent.com/reyzzao/#libsrz_c2ed3"
+  },
+  "modules": {
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/Init.d.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/Init.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/libs/LoaderLibs.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/libs/console/Index.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/libs/loader_index/LoaderModulesIndexFunction.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/libs/messages/Index.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/libs/messages/Mod.ts": {},
+    "https://raw.githubusercontent.com/reyzzao/libsRZ/main/ts/libs/validade_string_in_array/Index.ts": {}
+  }
+}

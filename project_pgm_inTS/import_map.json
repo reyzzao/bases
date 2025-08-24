@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "@/": "./",
+    "@global": "./src/global/Router.ts",
+    "@pgm_pack": "./src/pgm_pack/Router.ts",
+    "hono/": "https://deno.land/x/hono@v4.5.2/",
+    "zod/": "https://deno.land/x/zod@v3.23.8/",
+    "uuid/": "https://deno.land/std@0.224.0/uuid/",
+    "oak/": "https://deno.land/x/oak@v12.6.1/"
+  }
+}

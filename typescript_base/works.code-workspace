@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": ".", // Set code-workspace local.
+      "name": "WORK PRINCIPAL"
+    }
+  ],
+  "settings": {
+    // dicionario de palavras aceitas pelo linter cSpell neste projeto
+    "cSpell.words": ["foo", "bar", "usecases"]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  // by Profile Kotlin
+  // Obs: Evite extensoes do java. exemplo: "vscjava.vscode-java-pack" >> ela pensa muito e pesa.
+  // Extensões recomendadas para este workspace (opcional) - insira a identificacao informada no campo `Identifier` da extensao
+  // Para encontrar no marketplace web do visual studio : https://marketplace.visualstudio.com/items?itemName=<NOME_DO_IDENTIFIER>
+  "recommendations": [
+    "dracula-theme.theme-dracula",
+    "google.geminicodeassist",
+    "fwcd.kotlin"
+  ]
+}

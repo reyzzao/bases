@@ -1,0 +1,23 @@
+# http://editorconfig.org
+root = true
+
+[*] # Aplica a todos os arquivos
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.js] # Aplica apenas a arquivos JavaScript
+indent_style = space
+indent_size = 2
+
+[*.ts] # Aplica apenas a arquivos TypeScript
+indent_style = space
+indent_size = 2
+
+[*.json] # Aplica apenas a arquivos JSON
+indent_style = space
+indent_size = 2
+
+[*.md] # Aplica apenas a arquivos Markdown
+trim_trailing_whitespace = false

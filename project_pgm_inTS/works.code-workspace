@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": ".", // Set code-workspace local.
+      "name": "WORK PRINCIPAL"
+    }
+  ],
+  "settings": {
+    // obs: o settings nao configure aqui  porque  sendo configurado no settings do seu custom profile.
+    "recommendations": [
+      // somente recomenda as extensoes para o profile deste projeto
+      "denoland.vscode-deno",
+      "remcohaszing.schemastore", // json schema : para : linter json
+      "wallabyjs.console-ninja", // todo: analisar
+      // repetidas no default
+      "dracula-theme.theme-dracula",
+      "streetsidesoftware.code-spell-checker", // corretor ortográfico
+      "streetsidesoftware.code-spell-checker-portuguese", // dicionario PT-BR atual melhor que o Brazilian - fonte: gmn
+      "streetsidesoftware.code-spell-checker-british-english", //dicionario EN - by gmn
+      "codeium.codeium", // IA -Code para vscodium chat da windSurf - compativel com pc modesto.
+      "esbenp.prettier-vscode", // prettier default - para cuidar do json - #melhorOpcao
+      "editorconfig.editorconf",
+      "humao.rest-client"
+    ] // fim => recomendacoes de extensoes para este projeto.
+  }
+}

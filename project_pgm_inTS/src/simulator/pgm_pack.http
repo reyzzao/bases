@@ -1,0 +1,17 @@
+// @file: src/requests/pgm_pack.http
+
+// @desc: Define a variável para o tipo de música.
+@tipo_pack = pgm_pack
+
+### Endpoint para criar : 
+
+POST http://localhost:8080/pgm
+Content-Type: application/json
+
+{
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "pgmRequest": {
+        "nome": "hello tester - by request pgm_pack !"
+    },
+    "type": "{{tipo_pack}}"
+}

@@ -1,0 +1,11 @@
+// @file: deno.jsonc
+
+{
+  "compilerOptions": {
+    "strict": true
+  },
+   "tasks": {
+    "dev": "deno run --allow-net --allow-read src/main.ts"
+  },
+  "importMap": "import_map.json"
+}

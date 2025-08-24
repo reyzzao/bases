@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".", // Set code-workspace local.
+      "name": "WORK PRINCIPAL KOTLIN"
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "Dracula Theme", // Theme in use
+    "recommendations": [
+      "dracula-theme.theme-dracula",
+      "google.geminicodeassist",
+      "fwcd.kotlin"
+    ] // fim => recomendacoes de extensoes para este projeto.
+  }
+}
